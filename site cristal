@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+    <main>
+
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pela Rafaella, sem fins lucrativos.</p>
+    </footer>
+    <main>
+        <section id= “container”> 
+    
+    </section>
+    <article class="cartao">
+        <div class="cartao__conteudo">
+
+        </div>
+    </article>
+    <h3> Cristal </h3>
+    <div class="cartao__conteudo__pergunta">
+        Eu tenho uma cachorra da raça golden, ela tem 3 anos e convertendo para idade canina são 21 anos
+        </div>
+        <div class="cartao__conteudo__resposta">
+           Eu adoro minha cachorra, costumo chamar ela de minha little cristal loira de pelo, ela tem uma pelagem clara e é pequena, comparada a outros goldens, a Cristal gosta de brincar de bolinha, ama nadar (principalmente em piscinas), ela é muito carente, adora carinho na barriga, sabe sentar, deitar, ficar, girar e dar a patinha, fica no meio das pernas das pessoas e adora comer pão
+            </div>
+            
+<article class="cartao">
+    <div class="cartao__conteudo">
+            <h3> EU AMO A CRISTAL </h3>
+                
